@@ -13,4 +13,4 @@ python plot.py
 
 # Author
 
-Pledfdfase contact me;
+Please re contact me !
