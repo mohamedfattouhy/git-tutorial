@@ -13,4 +13,4 @@ python plot.py
 
 # Author
 
-Please contact me! 
+Please contact me;
